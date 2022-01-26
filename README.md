@@ -4,7 +4,7 @@
 
  <img align="right" alt="heimer" height="150" src="https://user-images.githubusercontent.com/93969750/141178607-f9d4b41f-4ad7-4017-86d4-1e57e7158d83.gif">
   
-  Atualmente na etapa "O chamado para a Aventura" na jornada de Engenheiro de Dados 😄 <br />
+  Aventurando-me em Engenharia de Dados, nas tecnológias que compõem as soluções de dados e em desenvolvimento Python 😄 <br />
   
 <div align=left>
 - 👨‍⚕️ Formado em psicologia (2015~2020)<br />
