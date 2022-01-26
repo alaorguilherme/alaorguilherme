@@ -36,9 +36,4 @@
     <i>
     Até mais, e obrigado pelos peixes!
     </i>
-  </div><br />
-        
-<a href=https://www.instagram.com/gui.alaor/>
-   <img align="right" width="28px"
-        src="https://user-images.githubusercontent.com/93969750/141225404-a8f8de26-fdeb-4e20-b5a0-9f9cf2528f73.png" />
-  </a>
+  </div>
